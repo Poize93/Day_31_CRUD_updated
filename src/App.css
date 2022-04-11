@@ -1,0 +1,30 @@
+.head{
+  background-color: gray;
+  color:black;
+  display:flex;
+flex-direction: column;
+align-items: center;
+align-content: space-around;
+    height:120px; 
+
+}
+
+.bttns{
+display:flex;
+flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.TeacherTable{
+  border: 1px solid black;
+}
+
+
+.body{
+  display:flex;
+  justify-content: space-evenly;
+  background-color:azure;
+  color: black;
+  min-height: 500px;  
+  align-items: center;
+}
